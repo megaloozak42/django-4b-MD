@@ -1,7 +1,8 @@
 li a {
-    color: red;
+    color: blue;
 }
 
 body {
-    background: rgb(240, 7, 7) url("images/sigma.jpg") no-repeat;
+    background: green url("images/wybory-urna-glosowanie.jpg");
+    
 }
